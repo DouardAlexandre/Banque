@@ -1,11 +1,11 @@
 
 <snippet>
   <content><![CDATA[
-Inline-style: 
+
 ![alt text](https://github.com/KVort3x/Banque/photo.jpg "C'est plus class evac de belles images")
 
 
-## Banques d'images libres de droits
+# Banques d'images libres de droits
  
 ## https://unsplash.com
 Unsplash est sûrement la plus connue des banques d’image libre de droits dans le milieu des Startups. Les photos sont tellement belles qu’on aurait presque envie d'en imprimer quelques-unes pour en accrocher chez soit. 10 photos gratuites sont ajoutées tous les 10 jours à cette banque d'images.
